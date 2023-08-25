@@ -1,5 +1,5 @@
 # Data Analyst
-<img src="https://github.com/ivancor93/Portfolio/blob/main/assets/data-analyst-picture.jpg" width=400 height=240 />
+![picture1](/assets/data-analyst-picture.jpg)
 
 ## Description
 This is my profile
