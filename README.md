@@ -1,4 +1,4 @@
-![data_analyst_pic](assets/data-analyst-picture.jpg | width=100)
+![data_analyst_pic](assets/data-analyst-picture.jpg | width=70)
 # Data Analyst
 ## Description
 This is my profile
