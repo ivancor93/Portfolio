@@ -1,4 +1,4 @@
-<img src="https://github.com/ivancor93/Portfolio/blob/main/assets/data-analyst-picture.jpg" width=500 height=250 />
+<img src="https://github.com/ivancor93/Portfolio/blob/main/assets/data-analyst-picture.jpg" width=300 height=250 />
 
 # Data Analyst
 ## Description
