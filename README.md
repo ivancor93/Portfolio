@@ -1,5 +1,5 @@
 # Data Analyst
-![picture1](/assets/Data_picture_2.jpg)
+![picture1](/assets/Data_picture_2.jpg){:height="100px" width="100px"}
 
 ## Description
 This is my profile
