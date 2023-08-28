@@ -1,6 +1,7 @@
 # Data Analyst
 ## Description
-With over 6 years of experience in a specialized collective catering group, I aim to bring my skills in Data Analysis to your teams and desire to contribute to the quality of service provided to the client. 
+With over 6 years of experience in a specialized collective catering group, I aim to bring my skills in Data Analysis to your teams and desire to contribute to the quality of service provided to the client.
+
 ![picture1](/assets/Data_picture_2.jpg)
 
 ## Education
