@@ -1,5 +1,5 @@
 # Data Analyst
-![picture1](/assets/data-analyst-picture.jpg)
+![picture1](/assets/Data_picture_2.jpg)
 
 ## Description
 This is my profile
