@@ -18,7 +18,7 @@ With over 6 years of experience in a specialized collective catering group, I ai
   > Université de Versailles Saint-Quentin-en-Yvelines
   > Guyancourt, France
 
-* 2014-2016 - BTEC higher National Diploma
+* 2014-2016 - BTEC higher National Diploma in Hospitality and Catering
   > Lycée d'Hôtellerie et de Tourisme de Guyancourt
   > Guyancourt, France
 
