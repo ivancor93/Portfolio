@@ -7,30 +7,24 @@ With over 6 years of experience in a specialized collective catering group, I ai
 ## Education
 * 2023 - Data Analyst Business Intelligence
   > OpenClassrooms
-  >
-  > [Link to diploma's dashboard in French](https://public.tableau.com/app/profile/ivan.cordoba/viz/DataAnalyst-Tableaudeborddelaformation/Tableaudebord#1)
-  > 
-  > Paris, France
+  > > [Link to diploma's dashboard in French](https://public.tableau.com/app/profile/ivan.cordoba/viz/DataAnalyst-Tableaudeborddelaformation/Tableaudebord#1)
+  > > Paris, France
   
 * 2017-2019 - Master Degree in Hospitality and International Catering Management
   > Université Cergy-Pontoise
-  >
-  > Cergy, France
+  >  > Cergy, France
 
 * 2016-2019 - Bachelor Degree in Hospitality and Catering Management
   > Université de Versailles Saint-Quentin-en-Yvelines
-  >
-  > Guyancourt, France
+  >  > Guyancourt, France
 
 * 2014-2016 - BTEC higher National Diploma in Hospitality and Catering
   > Lycée d'Hôtellerie et de Tourisme de Guyancourt
-  >
-  > Guyancourt, France
+  >  > Guyancourt, France
 
 * 2010-2011 - National Vocational Qualification in Cuisine
   > SENA Servicio Nacional de Aprendizaje
-  >
-  > Bogota, Colombia
+  >  > Bogota, Colombia
   
 ## Experiences
 
