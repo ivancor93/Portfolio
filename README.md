@@ -51,18 +51,20 @@ With over 6 years of experience in a specialized collective catering group, I ai
   > - Internship in the gastronomic restaurant of the hotel, 1 star in the Michelin Guide
 
 ## Projects
-* 1. EXCEL
+* I. Visualizing Data with Microsoft Excel
+  > Scenario : 
+  >  - One
 
-* 2. SQL
+* II. Querying a database with SQL
  
-* 3. POWER QUERY
+* III. Collecting data with Power Query while adhering to data protection standards
  
-* 4. PYTHON
+* IV. Optimizing inventory management for a store by cleaning its data with Python
  
-* 5. SQL AVANCE
+* V. Advanced SQL Database Querying
 
-* 6. PYTHON AVANCE
+* VI. Analyzing Real Estate Price Trends with Advanced Python
 
-* 7. POWER BI
+* VII. Creating a Dynamic Dashboard with Power BI for Project Management
 
-* 8. TABLEAU SOFTWARE
+* VIII. Showcasing Acquired Skills by Creating a Dashboard with Tableau Software
