@@ -50,10 +50,14 @@ With over 6 years of experience in a specialized collective catering group, I ai
 * 2015 - Commis Chef (Internship) - Hotel Le Mas du Langoustier
   > - Internship in the gastronomic restaurant of the hotel, 1 star in the Michelin Guide
 
-## Projects
+## Projects during Data Analyst's studies
 * I. Visualizing Data with Microsoft Excel
-  > Scenario : 
-  >  - One
+  > Scenario : Data Analyst for a fictitious french bank company, I was hired to fulfill the following missions :
+  > - Identify the typical profile of customers who are leaving the bank.
+  > - Deduce possible avenues of analysis regarding the reasons why they are leaving the bank.
+  > - Identify the proportion of current customers who may leave the bank.
+  
+  Image 1 (in French) : ![picture1](/assets/Data_picture_3.jpg)
 
 * II. Querying a database with SQL
  
