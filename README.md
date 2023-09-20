@@ -56,9 +56,9 @@ With over 6 years of experience in a specialized collective catering group, I ai
   > - Identify the typical profile of customers who are leaving the bank.
   > - Deduce possible avenues of analysis regarding the reasons why they are leaving the bank.
   > - Identify the proportion of current customers who may leave the bank.
+  > >  
+  >   Follow this link for more details : 
   
-  Image 1 (in French) : ![picture1](/assets/Data_picture_3.jpg)
-
 * II. Querying a database with SQL
  
 * III. Collecting data with Power Query while adhering to data protection standards
