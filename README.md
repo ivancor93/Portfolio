@@ -57,7 +57,7 @@ With over 6 years of experience in a specialized collective catering group, I ai
   > - Deduce possible avenues of analysis regarding the reasons why they are leaving the bank.
   > - Identify the proportion of current customers who may leave the bank.
   > >  
-  >   Follow this link for more details : 
+  >   Follow this [link](https://ivancor93.github.io/Projects/Project_1_folder/Project_1) for more details.
   
 * II. Querying a database with SQL
  
