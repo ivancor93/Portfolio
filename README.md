@@ -4,27 +4,6 @@ With over 6 years of experience in a specialized collective catering group, I ai
 
 ![picture1](/assets/Data_picture_2.jpg)
 
-## Education
-* March 2023/Decem 2023 - Data Analyst Business Intelligence
-  > - OpenClassrooms ([Link to diploma's dashboard in French](https://public.tableau.com/app/profile/ivan.cordoba/viz/DataAnalyst-Tableaudeborddelaformation/Tableaudebord#1))
-  > - Paris, France
-  
-* 2017-2019 - Master Degree in Hospitality and International Catering Management
-  > - Université Cergy-Pontoise
-  > - Cergy, France
-
-* 2016-2019 - Bachelor Degree in Hospitality and Catering Management
-  > - Université de Versailles Saint-Quentin-en-Yvelines
-  > - Guyancourt, France
-
-* 2014-2016 - BTEC higher National Diploma in Hospitality and Catering
-  > - Lycée d'Hôtellerie et de Tourisme de Guyancourt
-  > - Guyancourt, France
-
-* 2010-2011 - National Vocational Qualification in Cuisine
-  > - SENA Servicio Nacional de Aprendizaje
-  > - Bogota, Colombia
-  
 ## Experiences
 
 * 2022-2023 - Training Project Manager - Compass Group France HQ
@@ -50,9 +29,32 @@ With over 6 years of experience in a specialized collective catering group, I ai
 * 2015 - Commis Chef (Internship) - Hotel Le Mas du Langoustier
   > - Internship in the gastronomic restaurant of the hotel, 1 star in the Michelin Guide
 
-## Projects during Data Analyst's studies
+## Education
+* March 2023/Decem 2023 - Data Analyst Business Intelligence
+  > - OpenClassrooms ([Link to diploma's dashboard in French](https://public.tableau.com/app/profile/ivan.cordoba/viz/DataAnalyst-Tableaudeborddelaformation/Tableaudebord#1))
+  > - Paris, France
+  
+* 2017-2019 - Master Degree in Hospitality and International Catering Management
+  > - Université Cergy-Pontoise
+  > - Cergy, France
+
+* 2016-2019 - Bachelor Degree in Hospitality and Catering Management
+  > - Université de Versailles Saint-Quentin-en-Yvelines
+  > - Guyancourt, France
+
+* 2014-2016 - BTEC higher National Diploma in Hospitality and Catering
+  > - Lycée d'Hôtellerie et de Tourisme de Guyancourt
+  > - Guyancourt, France
+
+* 2010-2011 - National Vocational Qualification in Cuisine
+  > - SENA Servicio Nacional de Aprendizaje
+  > - Bogota, Colombia
+    
+
+## Portfolio of Data Analyst's Diploma
+
 * I. Visualizing Data with Microsoft Excel
-  > Scenario : Data Analyst for a fictitious french bank company, I was hired to fulfill the following missions :
+  > Scenario : Data Analyst for a fictitious french bank company, I was hired to fulfill the following missions:
   > - Identify the typical profile of customers who are leaving the bank.
   > - Deduce possible avenues of analysis regarding the reasons why they are leaving the bank.
   > - Identify the proportion of current customers who may leave the bank.
@@ -60,6 +62,13 @@ With over 6 years of experience in a specialized collective catering group, I ai
   > Follow this [link](https://ivancor93.github.io/Projects/Project_1_folder/Project_1) for more details.
   
 * II. Querying a database with SQL
+  >  Scenario : Consultant as Business Intelligence Analyst for a fictitious insurance Company. Those were the missions:
+  >  - Manage a database with SQL in order to developp the Data-Driven strategy
+  >  - Conduct an inventory of our current contracts and customers profile
+  >  - Review the prices of insurance contracts to differentiate from the competition
+  >  - Create a presentation on the procedure for creating SQL queries
+  >    
+  > Follow this [link](https://ivancor93.github.io/Projects/Project_2_folder/Project_2) for more details.
  
 * III. Collecting data with Power Query while adhering to data protection standards
  
