@@ -30,6 +30,7 @@ With over 6 years of experience in a specialized collective catering group, I ai
   > - Internship in the gastronomic restaurant of the hotel, 1 star in the Michelin Guide
 
 ## Education
+
 * March 2023/Decem 2023 - Data Analyst Business Intelligence
   > - OpenClassrooms ([Link to diploma's dashboard in French](https://public.tableau.com/app/profile/ivan.cordoba/viz/DataAnalyst-Tableaudeborddelaformation/Tableaudebord#1))
   > - Paris, France
@@ -59,7 +60,7 @@ With over 6 years of experience in a specialized collective catering group, I ai
   > - Deduce possible avenues of analysis regarding the reasons why they are leaving the bank.
   > - Identify the proportion of current customers who may leave the bank.
   > 
-  > Follow this [link](https://ivancor93.github.io/Projects/Project_1_folder/Project_1) for more details.
+  > [Follow this link for more details](https://ivancor93.github.io/Projects/Project_1_folder/Project_1)
   
 * II. Querying a database with SQL
   >  Scenario : Consultant as Business Intelligence Analyst for a fictitious insurance Company. Those were the missions:
@@ -68,7 +69,7 @@ With over 6 years of experience in a specialized collective catering group, I ai
   >  - Review the prices of insurance contracts to differentiate from the competition
   >  - Create a presentation on the procedure for creating SQL queries
   >    
-  > Follow this [link](https://ivancor93.github.io/Projects/Project_2_folder/Project_2) for more details.
+  > [Follow this link for more details](https://ivancor93.github.io/Projects/Project_2_folder/Project_2)
  
 * III. Collecting data with Power Query while adhering to data protection standards
  
