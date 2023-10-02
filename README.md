@@ -54,7 +54,7 @@ With over 6 years of experience in a specialized collective catering group, I ai
 
 ## Portfolio of Data Analyst's Diploma
 
-* I. Visualizing Data with Microsoft Excel
+### I. Visualizing Data with Microsoft Excel
   > Scenario : Data Analyst for a fictitious french bank company, I was hired to fulfill the following missions:
   > - Identify the typical profile of customers who are leaving the bank.
   > - Deduce possible avenues of analysis regarding the reasons why they are leaving the bank.
@@ -62,7 +62,7 @@ With over 6 years of experience in a specialized collective catering group, I ai
   > 
   > [Follow this link for more details](https://ivancor93.github.io/Projects/Project_1_folder/Project_1)
   
-* II. Querying a database with SQL
+### II. Querying a database with SQL
   >  Scenario : Consultant as Business Intelligence Analyst for a fictitious insurance Company. Those were the missions:
   >  - Manage a database with SQL in order to developp the Data-Driven strategy
   >  - Conduct an inventory of our current contracts and customers profile
@@ -71,14 +71,14 @@ With over 6 years of experience in a specialized collective catering group, I ai
   >    
   > [Follow this link for more details](https://ivancor93.github.io/Projects/Project_2_folder/Project_2)
  
-* III. Collecting data with Power Query while adhering to data protection standards
+### III. Collecting data with Power Query while adhering to data protection standards
  
-* IV. Optimizing inventory management for a store by cleaning its data with Python
+### IV. Optimizing inventory management for a store by cleaning its data with Python
  
-* V. Advanced SQL Database Querying
+### V. Advanced SQL Database Querying
 
-* VI. Analyzing Real Estate Price Trends with Advanced Python
+### VI. Analyzing Real Estate Price Trends with Advanced Python
 
-* VII. Creating a Dynamic Dashboard with Power BI for Project Management
+### VII. Creating a Dynamic Dashboard with Power BI for Project Management
 
 * VIII. Showcasing Acquired Skills by Creating a Dashboard with Tableau Software
