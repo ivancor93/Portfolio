@@ -87,4 +87,4 @@ With over 6 years of experience in a specialized collective catering group, I ai
 
 ### VII. Creating a Dynamic Dashboard with Power BI for Project Management
 
-* VIII. Showcasing Acquired Skills by Creating a Dashboard with Tableau Software
+### VIII. Showcasing Acquired Skills by Creating a Dashboard with Tableau Software
