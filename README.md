@@ -56,9 +56,9 @@ With over 6 years of experience in a specialized collective catering group, I ai
 
 ### I. Visualizing Data with Microsoft Excel
   > Scenario : Data Analyst for a fictitious french bank company, I was hired to fulfill the following missions:
-  > - Identify the typical profile of customers who are leaving the bank.
-  > - Deduce possible avenues of analysis regarding the reasons why they are leaving the bank.
-  > - Identify the proportion of current customers who may leave the bank.
+  > - Identify the typical profile of customers who are leaving the bank
+  > - Deduce possible avenues of analysis regarding the reasons why they are leaving the bank
+  > - Identify the proportion of current customers who may leave the bank
   > 
   > [Follow this link for more details](https://ivancor93.github.io/Projects/Project_1_folder/Project_1)
   
@@ -72,10 +72,12 @@ With over 6 years of experience in a specialized collective catering group, I ai
   > [Follow this link for more details](https://ivancor93.github.io/Projects/Project_2_folder/Project_2)
  
 ### III. Collecting data with Power Query while adhering to data protection standards
-  >  Scenario : Consultant as Business Intelligence Analyst for a fictitious insurance Company. Those were the missions:
-  >  - Manage 
-  >    
-  > [Follow this link for more details](https://ivancor93.github.io/Projects/Project_3_folder/Project_3)
+  >  Scenario : Consultant Data Analyst for an car insurance company. Those were the missions:
+  >  - Provide recommendations on the management rules to be implemented immediately for CRM data to comply with the data protection official rules (RGPD in french)
+  >  - Generate a CSV extraction by anonymizing CRM data using Power Query software
+  >  - Document all the steps of this operation in a report demonstrating adherence to quality processes in data collection, data preparation, and the formulation of recommendations
+  >
+  >   > [Follow this link for more details](https://ivancor93.github.io/Projects/Project_3_folder/Project_3)
  
 ### IV. Optimizing inventory management for a store by cleaning its data with Python
  
