@@ -72,6 +72,10 @@ With over 6 years of experience in a specialized collective catering group, I ai
   > [Follow this link for more details](https://ivancor93.github.io/Projects/Project_2_folder/Project_2)
  
 ### III. Collecting data with Power Query while adhering to data protection standards
+  >  Scenario : Consultant as Business Intelligence Analyst for a fictitious insurance Company. Those were the missions:
+  >  - Manage 
+  >    
+  > [Follow this link for more details](https://ivancor93.github.io/Projects/Project_3_folder/Project_3)
  
 ### IV. Optimizing inventory management for a store by cleaning its data with Python
  
