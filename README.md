@@ -77,7 +77,7 @@ With over 6 years of experience in a specialized collective catering group, I ai
   >  - Generate a CSV extraction by anonymizing CRM data using Power Query software
   >  - Document all the steps of this operation in a report demonstrating adherence to quality processes in data collection, data preparation, and the formulation of recommendations
   >
-  >   > [Follow this link for more details](https://ivancor93.github.io/Projects/Project_3_folder/Project_3)
+  > [Follow this link for more details](https://ivancor93.github.io/Projects/Project_3_folder/Project_3)
  
 ### IV. Optimizing inventory management for a store by cleaning its data with Python
  
