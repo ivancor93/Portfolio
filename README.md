@@ -80,6 +80,13 @@ With over 6 years of experience in a specialized collective catering group, I ai
   > [Follow this link for more details](https://ivancor93.github.io/Projects/Project_3_folder/Project_3)
  
 ### IV. Optimizing inventory management for a store by cleaning its data with Python
+  >  Scenario : Data Analyst for an important wine shop in France. Those were the missions:
+  >  - Optimize stock management through automate data cleaning, structuring and preparation
+  >  - Fusion several data files in order to get a unique and clear database for sales analysis
+  >  - Present Data visualisation through Python libraries
+  >  - Document all the steps of this operation in a Jupiter Notebook in order to keep traceability
+  > 
+  > [Follow this link for more details](https://ivancor93.github.io/Projects/Project_4_folder/Project_4)
  
 ### V. Advanced SQL Database Querying
 
