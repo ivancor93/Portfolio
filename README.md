@@ -89,6 +89,13 @@ With over 6 years of experience in a specialized collective catering group, I ai
   > [Follow this link for more details](https://ivancor93.github.io/Projects/Project_4_folder/Project_4)
  
 ### V. Advanced SQL Database Querying
+  >  Scenario : Business Intelligence Consultant for a large retail company. Those were the missions:
+  >  - Use customer feedback and review data to improve the quality of its store network
+  >  - Reformulate business units needs
+  >  - Prepare and redefine the database schema
+  >  - Answer a list of queries in SQL and propose new indicators
+  > 
+  > [Follow this link for more details](https://ivancor93.github.io/Projects/Project_5_folder/Project_5)
 
 ### VI. Analyzing Real Estate Price Trends with Advanced Python
 
