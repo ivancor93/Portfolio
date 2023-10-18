@@ -26,8 +26,6 @@ With over 6 years of experience in a specialized collective catering group, I ai
   > - Performing administrative and accounting tasks
   > - Implementation and adherence to quality and hygiene processes
   > - Management of communication tools
-* 2015 - Commis Chef (Internship) - Hotel Le Mas du Langoustier
-  > - Internship in the gastronomic restaurant of the hotel, 1 star in the Michelin Guide
 
 ## Education
 
