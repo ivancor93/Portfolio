@@ -104,5 +104,11 @@ With over 6 years of experience in a specialized collective catering group, I ai
   > [Follow this link for more details](https://ivancor93.github.io/Projects/Project_6_folder/Project_6)
 
 ### VII. Creating a Dynamic Dashboard with Power BI for Project Management
+  >  Scenario : Data Analyst for an international group that manufactures and markets oral care products
+  >  - Create a dashboard to monitor project progress, identify delays and control performance so that the team can take appropriate actions
+  >  - Formalize the user stories in a Product Strategy Canvas
+  >  - Document the data preparation steps and present the star schema model
+  > 
+  > [Follow this link for more details](https://ivancor93.github.io/Projects/Project_7_folder/Project_7)
 
 ### VIII. Showcasing Acquired Skills by Creating a Dashboard with Tableau Software
