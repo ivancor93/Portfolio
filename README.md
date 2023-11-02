@@ -112,3 +112,7 @@ With over 6 years of experience in a specialized collective catering group, I ai
   > [Follow this link for more details](https://ivancor93.github.io/Projects/Project_7_folder/Project_7)
 
 ### VIII. Showcasing Acquired Skills by Creating a Dashboard with Tableau Software
+  > Main Goal : Highlighting the skills acquired through a dashboard in French
+  > Software : Tableau Public
+  >
+  > ([Follow this link for more details](https://public.tableau.com/app/profile/ivan.cordoba/viz/DataAnalyst-Tableaudeborddelaformation/Tableaudebord#1))  
