@@ -115,4 +115,4 @@ With over 6 years of experience in a specialized collective catering group, I ai
   > Main Goal : Highlighting the skills acquired through a dashboard in French
   > Software : Tableau Public
   >
-  > ([Follow this link for more details](https://public.tableau.com/app/profile/ivan.cordoba/viz/DataAnalyst-Tableaudeborddelaformation/Tableaudebord#1))  
+  > [Follow this link for more details](https://public.tableau.com/app/profile/ivan.cordoba/viz/DataAnalyst-Tableaudeborddelaformation/Tableaudebord#1)
