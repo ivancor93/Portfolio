@@ -1,6 +1,6 @@
 # Data Analyst - Business Intelligence
 ## Description
-With over 6 years of experience in a specialized collective catering group, I aim to bring my skills in Data Analysis to your teams and desire to contribute to the quality of service provided to the client.
+Several years of experience within a large group in the catering industry, passionate about Data with which I have worked empirically. I am currently specializing in the field of Data Analytics & Business Intelligence to make it my main profession and contribute to the development of data-driven strategies for companies.
 
 ![picture1](/assets/Data_picture_2.jpg)
 
