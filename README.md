@@ -37,7 +37,7 @@ Several years of experience within a large group in the catering industry, passi
   > - Université Cergy-Pontoise
   > - Cergy, France
 
-* 2016-2019 - Bachelor Degree in Hospitality and Catering Management
+* 2016-2017 - Bachelor Degree in Hospitality and Catering Management
   > - Université de Versailles Saint-Quentin-en-Yvelines
   > - Guyancourt, France
 
