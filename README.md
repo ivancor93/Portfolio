@@ -9,6 +9,7 @@ Several years of experience within a large group in the catering industry, passi
 * 2022-2023 - Training Project Manager - Compass Group France HQ
   > - Chefs training for Computer-assisted Management, developping our intern production tool
   > - Management of our database system, production of KPIs
+  > - Collaborate with cross-functional teams to develop strategic decisions through data analysis
 * 2019-2022 - Cost Controller - Levy Restaurants France
   > - Development and monitoring of the P&L, with a budget of €10 million per year
   > - Implementation of KPIs and improvement of internal processes
